@@ -1,7 +1,8 @@
 # Quick tool: A minimalistic Telnet library
 
 Send commands to your servers from your programs using the Telnet protocol
-Download source files - 10.9 KB
+
+[Download source files](https://github.com/rafinhaa/MinimalisticTelnet/releases "Download source files")
 
 ![Image 1](https://www.codeproject.com/KB/IP/MinimalisticTelnet/telnetconsole.jpg "Image 1")
 
